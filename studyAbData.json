@@ -1,41 +1,23 @@
 {
     "cities" : {
         "Arabic":{
-            "ancient" :{
-                "Middle East Study" :"MES"
-            },
-            "newCity" : {
-                "RITDubai" : "DirectEnroll"
-            }
-
+            "ancient" : "Middle East Study MES",
+            "newCity" :"RITDubai DirectEnroll"
         },
         "spanish":{
-            "humanities" :{
-                "Advance Liberal Arts" :"Barcelona"
-            },
-            "science" : {
-                "Health Studies" : "Santiago"
-            }
+            "humanities" :"Advance Liberal Arts Barcelona",
+            "science" : "Health Studies, Santiago"
         }
 
     },
     "nature":{
         "mountains":{
-            "SouthAmerica" :{
-                "Univesidad San Ignacio Loyola" :"Semester in Cusco"
-            },
-            "Asia" : {
-                "Big Cats of Himalayas" : "Tracking & Conservation"
-            }
-
+            "SouthAmerica" :"Univesidad San Ignacio Loyola Semester in Cusco",
+            "Asia" :"Big Cats of Himalayas Tracking & Conservation"
         },
         "islands":{
-            "Caribbean" :{
-                "Marine Resource Studies" :"Marine"
-            },
-            "South Pacific" : {
-                "Protect" : "Phoenix island"
-            }
+            "Caribbean" : "Marine Resource Studies Marine",
+            "South Pacific" : "Protect Phoenix island"
         }
     }
 }
