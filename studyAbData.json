@@ -6,7 +6,8 @@
         },
         "spanish":{
             "humanities" :"Advance Liberal Arts Barcelona",
-            "science" : "Health Studies, Santiago"
+            "science" : "Health Studies, Santiago",
+            "computer" : "Golisano"
         }
 
     },
@@ -18,6 +19,11 @@
         "islands":{
             "Caribbean" : "Marine Resource Studies Marine",
             "South Pacific" : "Protect Phoenix island"
+        },
+        "spanish":{
+            "humanities2" :"Advance Liberal Arts Barcelona2",
+            "science2" : "Health Studies, Santiago2",
+            "computer2" : "Golisano2"
         }
     }
 }
