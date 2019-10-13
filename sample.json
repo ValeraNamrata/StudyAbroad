@@ -1,0 +1,18 @@
+{   "question":"Do you prefer cities OR nature?",
+    "cities" : {
+        "question":"Do you prefer arabic OR Spanish?",
+        "Arabic":{
+            "question":"Do you pefer ancient Or New cities?",
+            "ancient" : {
+                "Middle East":" Study MES",
+                "abc" : "text data"
+            },
+
+            "newCity" : {
+                "RITDubai":" DirectEnroll",
+                "one two" : "program"
+        }
+        }
+
+    }
+}
