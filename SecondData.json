@@ -88,10 +88,15 @@
     },
     "Deaf Culture" : {
         "question" : "Which kind of sign language do you prefer?",
-        "Chinese Sign Language": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=2c1757d95c84e33a50137db28d7dbf19",
-        "Sign language of Netherlands" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=05636913a69b4fd7ea457fe3d67b8fc2",
-        "American sign Language" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=23b7f5516873ab387e278bab870a7f36"
-
+        "Chinese Sign Language": {
+            "Beijing, Tianjin, Changchun, China" :"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=2c1757d95c84e33a50137db28d7dbf19"
+        },
+        "Sign language of Netherlands" :{
+            "Utrecht, Netherlands" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=05636913a69b4fd7ea457fe3d67b8fc2"
+        },
+        "American sign Language" :{
+            "Paris,Lyon,Reims in France" :"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=23b7f5516873ab387e278bab870a7f36"
+        } 
     },
     "Photography" : {
         "Havana, Cuba" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=74dd757c631f5411d7b36e2a2d2208e1"
