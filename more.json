@@ -3,14 +3,20 @@
         "question":"Do you prefer arabic OR Spanish?",
         "Arabic":{
             "question":"Do you pefer ancient Or New cities?",
-            "ancient" : "Middle East Study MES",
+            "ancient" : "Middle East":"Study MES",
             "newCity" :"RITDubai DirectEnroll"
         },
         "spanish":{
             "question":"which field do you choose?",
-            "humanities" :"Advance Liberal Arts Barcelona",
-            "science" : "Health Studies, Santiago",
-            "computer" : "Golisano"
+            "humanities" :{
+                "Barcelona": "Advance Liberal Arts"
+            },
+            "science" : {
+                "Santiago": "Health Studies"
+            },
+            "computer" : {
+                "Rochester":"Golisano"
+            }
         }
 
     },
@@ -18,19 +24,32 @@
         "question":"What do you enjoy in nature?",
         "mountains":{
             "question":"which country?",
-            "SouthAmerica" :"Univesidad San Ignacio Loyola Semester in Cusco",
-            "Asia" :"Big Cats of Himalayas Tracking & Conservation"
+            "SouthAmerica" :{
+                "Cusco" :"Univesidad San Ignacio Loyola Semester"
+            },
+            "Asia" : {
+                "Himalaya":"Big Cats of Himalayas Tracking & Conservation"
+            } 
         },
         "islands":{
             "question":"which sea?",
-            "Caribbean" : "Marine Resource Studies Marine",
-            "South Pacific" : "Protect Phoenix island"
+            "Caribbean" : {
+                "someplace":"Marine Resource Studies Marine"
+            } ,
+            "South Pacific" :{
+                "Phoenix island" : "Protect Phoenix island"
+            }
         },
         "spanish island":{
             "question":"just a question?",
-            "humanities2" :"Advance Liberal Arts Barcelona2",
-            "science2" : "Health Studies, Santiago2",
-            "computer2" : "Golisano2"
+            "humanities2" :{
+                "Barcelona2": "Advance Liberal Arts"
+            },
+            "science2" : {
+                "Santiago2": "Health Studies"
+            },
+            "computer2" : {
+                "Rochester2":"Golisano"
+            }
         }
-    }
 }
