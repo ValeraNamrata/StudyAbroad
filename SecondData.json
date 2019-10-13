@@ -76,10 +76,15 @@
 
     },
     "Computer Science" :{
-        "question" :"Prefered language?",
+        "question" :"Prefered language for the lectures?",
         "English" : {
-            "Paderborn, Germany" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e9d86a4929dce2a0ac127d1a18d47b16",
-            "Poznan, Poland" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=4debf73e3f15c79175b3352bd399229b"
+            "question" : "Which domain does your interest lie in?",
+            "Software Design and programming" : {
+                "Paderborn, Germany" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e9d86a4929dce2a0ac127d1a18d47b16"
+            },
+            "Computer Architecture and organization" : {
+                "Poznan, Poland" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=4debf73e3f15c79175b3352bd399229b"
+            }
         },
         "German" : {
             "Paderborn, Germany" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e9d86a4929dce2a0ac127d1a18d47b16"
