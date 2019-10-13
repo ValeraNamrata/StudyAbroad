@@ -2,9 +2,13 @@
     "cities" : {
         "question":"Do you prefer arabic OR Spanish?",
         "Arabic":{
-            "question":"Do you pefer ancient Or New cities?",
-            "ancient" : "Middle East":"Study MES",
-            "newCity" :"RITDubai DirectEnroll"
+             "question":"Do you pefer ancient Or New cities?",
+            "ancient" : {
+                "middleEast" :"Middle East Study MES"
+            },
+            "newCity" :{
+                "Dubai" : "RITDubai DirectEnroll"
+            }
         },
         "spanish":{
             "question":"which field do you choose?",
