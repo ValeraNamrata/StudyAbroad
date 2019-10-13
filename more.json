@@ -1,8 +1,9 @@
-{   "question":"Do you prefer cities OR nature?",
+{   
+    "question":"Do you prefer cities OR nature?",
     "cities" : {
         "question":"Do you prefer arabic OR Spanish?",
         "Arabic":{
-             "question":"Do you pefer ancient Or New cities?",
+            "question":"Do you pefer ancient Or New cities?",
             "ancient" : {
                 "middleEast" :"Middle East Study MES"
             },
