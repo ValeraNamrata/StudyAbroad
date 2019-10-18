@@ -1,0 +1,47 @@
+{"question":"Do you prefer cities or nature?",
+    "cities": {
+        "question": "Do you prefer Arabic or Spanish?",
+        "Arabic":{
+            "question" : "Do you prefer Ancient or New?",
+            "Ancient" :{
+                "Middle East Studies": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0f30e6c7e993fafeda90e8dde9b83467"
+            },
+            "New": {
+                "RIT Dubai - Direct Enroll":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0e062b2cfb65db2f6778cd26aad9311d"
+            }
+        },
+        "Spanish":{
+            "question" : "Dp you prefer humanities or science?",
+            "humanities":{
+                "Advanced Liberal Arts - Barcelona" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=473cb41401b20b3d91b31432e80e8e4f"
+
+            },
+            "science":{
+                "Santiago - Health Studies":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=89894ba735af3935a4611a2205fff648"
+
+            }
+        }
+    },
+    "nature": {
+        "question" : "Do you prefer mountains or islands?",
+        "mountains" : {
+            "question": "Do you prefer South Ameria or Asia?",
+            "South America": {
+                "Semester in Cusco - Universidad San Ignacio Loyola":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ae8939c42459a2b58f247a8e2cff284b"
+            },
+            "Asia":{
+                "Big Cats of the Himalayas: Tracking & Conservation" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ddbf516c2873f7087f3d631ca7f239a2"
+            }
+        },
+        "islands" : {
+            "question" : "Do you prefer the Caribbean or South Pacific?",
+            "Carribbean" : {
+                "Marine Resource Studies":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e66910d6fcad2576bea3f4a4dcef3897"
+            },
+            "South Pacific" : {
+                "Protecting the Phoenix Islands" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=1008cf2cf5051059f9138d0787a23388"
+            }
+        }
+
+    }
+}
