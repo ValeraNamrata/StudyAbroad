@@ -1,0 +1,111 @@
+{
+    "question":"What is the field of your interest?",
+    "Art": {
+        "question": "What is your term preference?",
+        "Winter Break" : {
+            "CAD Honors Leadership: Cuba": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=9c6f8079542da70adfa176b65e2768ba"
+        },
+        "Summer": {
+            "question" : "Do like Digital art or archaeological sites?",
+            "Digital Art" :{
+                "Digital Storytelling in Portugal": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=82b4255d14bd4f3bc1b32b84c5bc94fb",
+                "Transnational Workshop: Digital Creation 'Beyond the Screen'" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=da6bc2d85c20ee9cfba92ef001570c90"
+            },
+            "Archaeological Sites": {
+                "Rome: Examining Art and Design in the Eternal City" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=04e4efe8f5edf70016b21c7f028bea4f"
+            }
+
+        },
+        "Spring" : {
+            "question" : "Want to see Northen lights?",
+            "Yes" : {
+                "CAD Honors Leadership: Iceland" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=96141fa3f2f8a82593bfb6db98dd8b94"
+            },
+            "No" : {
+                "CAD Honors Leadership: Cuba" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=9c6f8079542da70adfa176b65e2768ba"
+            }
+
+        },
+        "All" : {
+            "question" : "What is your preffered Duration?",
+            "Less than 2 weeks":{
+                "question": "What will you enjoy more?",
+                "Museums" : {
+                    "CAD Honors Leadership: Iceland" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=96141fa3f2f8a82593bfb6db98dd8b94"
+                },
+                "Spanish Architecture" : {
+                    "CAD Honors Leadership: Cuba" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=9c6f8079542da70adfa176b65e2768ba"
+                },
+                "Art and Fashion Culture" : {
+                    "Transnational Workshop: Digital Creation 'Beyond the Screen'" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=da6bc2d85c20ee9cfba92ef001570c90"
+                },
+                "Renaissance and Gothic palaces" : {
+                    "Venice Biennale" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=a47daca88e02f32d5f479c1b7097b555"
+                }
+
+            },
+            "2 to 8 weeks" : {
+                "question" : "What kind of studies are you looking for?",
+                "Arcitectural" : {
+                    "Architecture & Urbanism of the Italian Renaissance" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=02062b4e59a4226d534fecdda08c6369",
+                    "Rome: Examining Art and Design in the Eternal City" :"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=04e4efe8f5edf70016b21c7f028bea4f"
+                },
+                "Typography and Literature" : {
+                    "Typography and Culture in Northern Italy" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=a2bcdf66fc00e18f8060ac402fbaedae",
+                    "Digital Storytelling in Portugal" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=82b4255d14bd4f3bc1b32b84c5bc94fb"
+
+                }
+
+            }
+
+        }
+
+    },
+    "Marketing" :{
+        "question" : "Would you like a city with modern architecture or ancient Architecture?",
+        "Modern" : {
+            "Dubai Inc." : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=fc0905cd6f7264a9ce00289539c1e22b",
+            "Beijing Jiaotong University Exchange" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=08d3157e328d73817444d2b0fb5c166f"
+        },
+        "Ancient" : {
+            "Zagreb, Croatia" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=bedd26be35923b30841b5f483e0ae35d",
+            "RIT Croatia - Direct Enroll" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=bedd26be35923b30841b5f483e0ae35d"
+
+        }
+
+
+    },
+    "Computer Science" :{
+        "question" :"Prefered language for the lectures?",
+        "English" : {
+            "question" : "Which domain does your interest lie in?",
+            "Software Design and programming" : {
+                "Paderborn University" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e9d86a4929dce2a0ac127d1a18d47b16"
+            },
+            "Computer Architecture and organization" : {
+                "Summer CPU Design in Poland" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=4debf73e3f15c79175b3352bd399229b"
+            }
+        },
+        "German" : {
+            "Paderborn University" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e9d86a4929dce2a0ac127d1a18d47b16"
+        }
+
+    },
+    "Deaf Culture" : {
+        "question" : "Which kind of sign language do you prefer?",
+        "Chinese Sign Language": {
+            "China and Chinese Deaf Community" :"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=2c1757d95c84e33a50137db28d7dbf19"
+        },
+        "Sign language of Netherlands" :{
+            "NTID Study Abroad to Hogeschool Utrecht" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=05636913a69b4fd7ea457fe3d67b8fc2"
+        },
+        "American sign Language" :{
+            "International Studies Seminar: Deaf Studies & Transatlantic Roots in France" :"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=23b7f5516873ab387e278bab870a7f36"
+        } 
+    },
+    "Photography" : {
+        "Photography in Cuba" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=74dd757c631f5411d7b36e2a2d2208e1"
+
+    }
+
+}
